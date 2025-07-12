@@ -66,6 +66,7 @@ HAPPYSAD/
 | Accuracy        | 98.9%    | 94.3%      |
 | Loss           | 0.028    | 0.221      |
 
+![Training Progress](assets/training_metrics.png)
 ---
 
 ## 🚀 Getting Started
