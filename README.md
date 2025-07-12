@@ -57,6 +57,15 @@ HAPPYSAD/
     └── sad/
 
 ```
+ ## 📊 Performance Metrics
+| Metric          | Training | Validation |
+|-----------------|----------|------------|
+| Accuracy        | 98.9%    | 94.3%      |
+| Loss           | 0.028    | 0.221      |
+
+![Training Progress](images/model_performance.png)
+
+---
 ---
 
 ## 📬 Connect
