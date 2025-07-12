@@ -57,34 +57,6 @@ HAPPYSAD/
     └── sad/
 
 ```
-
----
-
-## 📊 Performance Metrics
-| Metric          | Training | Validation |
-|-----------------|----------|------------|
-| Accuracy        | 98.9%    | 94.3%      |
-| Loss           | 0.028    | 0.221      |
-
-![Training Progress](assets/training_metrics.png)
----
-
-## 🚀 Getting Started
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/geckoware/Happy-Sad-Classification.git
-   ```
-
-2. **Set Up Environment**:
-   Install dependencies via `pip install -r requirements.txt`.
-
-3. **Run the Model**:
-   - Execute the Jupyter Notebook for training/evaluation
-   - Use the pre-trained `happysad_model.h5` for inferences
-
-4. **Predict Emotions**:
-   Load the model and pass 128x128 RGB images for instant classification.
-
 ---
 
 ## 📬 Connect
