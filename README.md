@@ -66,7 +66,6 @@ HAPPYSAD/
 ![Training Progress](images/model_performance.png)
 
 ---
----
 
 ## 📬 Connect
 For collaborations or questions:
